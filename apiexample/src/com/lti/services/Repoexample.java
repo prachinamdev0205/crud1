@@ -9,7 +9,7 @@ public class Repoexample {
 		
 		System.out.println("Ola Amigos");
 		System.out.println("HELLO FROM ADMIN");
-		System.out.println("trying out more conflicts");
+		System.out.println("trying out more conflict s");
 		
 	}
 
