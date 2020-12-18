@@ -10,6 +10,7 @@ public class Repoexample {
 		System.out.println("Ola Amigos");
 
 		System.out.println("HELLO FROM ADMIN");
+		System.out.println("conflict 2 from child which I will delete ");
 
 		
 	}
