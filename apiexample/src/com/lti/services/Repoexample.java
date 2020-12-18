@@ -7,6 +7,7 @@ public class Repoexample {
 
 		System.out.println("Hello I am Learning Github");
 		System.out.println("Hello again");
+		System.out.println("Ola Amigos");
 		
 	}
 
