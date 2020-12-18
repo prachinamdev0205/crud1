@@ -12,7 +12,7 @@ public class Repoexample {
 		System.out.println("HELLO FROM ADMIN");
 
 		System.out.println("trying out more conflict s");
-		System.out.println("created new branch");
+		System.out.println("created new branch and commiting it");
 
 
 
